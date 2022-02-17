@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dean Yaish
 - 👀 I’m interested in Networking, Cyber Security and Web/Desktop Development.
-- 🌱 I’m a Computer engineering Graduate Looking For a Back End\Full Stack Developer Position.
+- 🌱 I’m a Computer Engineering Graduate Looking For a Back End\Full Stack Developer Position.
 - 📫 You can reach me @-> Deanyaish1@gmail.com
 
 <!---
