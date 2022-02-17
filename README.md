@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @DeanYaish
-- 👀 I’m interested in Networking and Cyber Security
-- 🌱 I’m currently learning Computer engineering as my Bachelor Degree
-- 📫 How to reach me -> Deanyaish1@gmail.com
+- 👋 Hi, I’m Dean Yaish
+- 👀 I’m interested in Networking, Cyber Security and Web/Desktop Development.
+- 🌱 I’m a Computer engineering Graduate Looking For a Back End\Full Stack Developer Position.
+- 📫 You can reach me @-> Deanyaish1@gmail.com
 
 <!---
 DeanYaish/DeanYaish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
